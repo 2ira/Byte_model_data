@@ -503,7 +503,7 @@
     "model": "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_4b_bsz-2m_seq8k_tokenized_docmask_100B_step-40000",
     "tokenizer_path": "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_4b_bsz-2m_seq8k_tokenized_docmask_100B_step-40000",
     "revision": null,
-    "use_auth_token": "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",
+    "use_auth_token": "",
     "trust_remote_code": true,
     "tasks": "humaneval_plus",
     "batch_size": 1,

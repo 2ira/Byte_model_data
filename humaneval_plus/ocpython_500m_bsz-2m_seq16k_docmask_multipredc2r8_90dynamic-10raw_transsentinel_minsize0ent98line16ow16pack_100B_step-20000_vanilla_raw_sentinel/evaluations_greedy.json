@@ -503,7 +503,7 @@
     "model": "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_500m_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_step-20000",
     "tokenizer_path": "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_500m_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_step-20000",
     "revision": null,
-    "use_auth_token": "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",
+    "use_auth_token": "",
     "trust_remote_code": true,
     "tasks": "humaneval_plus",
     "batch_size": 1,
