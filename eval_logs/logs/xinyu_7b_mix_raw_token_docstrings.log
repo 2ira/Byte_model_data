@@ -1,0 +1,79 @@
++ export HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ export HF_TOKEN=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
++ HF_TOKEN=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
++ NUM_GPUS=1
++ USER_MODEL=xinyu_7b_mix_token
++ USER_DATASET=perturbed-humaneval-docstrings-num_seeds_5
++ DUMP_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs
++ MODEL_TYPE=base
++ DECODING_MODE=vanilla
++ TOKENIZER_MODE=raw_sentinel
++ SPM_PATH=--separate_embedding
++ PROMPT_HEALING=strip
++ '[' 7 -lt 8 ']'
++ shift 7
++ [[ xinyu_7b_mix_token == \n\o\n\e ]]
++ [[ xinyu_7b_mix_token == \d\y\n\a\m\i\c\1 ]]
++ [[ xinyu_7b_mix_token == \d\y\n\a\m\i\c\2 ]]
++ [[ xinyu_7b_mix_token == \d\y\n\a\m\i\c\3 ]]
++ [[ xinyu_7b_mix_token == \d\y\n\a\m\i\c\4 ]]
++ [[ xinyu_7b_mix_token == \r\a\w\2 ]]
++ [[ xinyu_7b_mix_token == \r\a\w\2\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \r\a\w ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\o\p\e\n\c\o\d\e\r ]]
++ [[ xinyu_7b_mix_token == \b\i\t ]]
++ [[ xinyu_7b_mix_token == \b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \d\o\u\b\l\e\b\i\t ]]
++ [[ xinyu_7b_mix_token == \d\o\u\b\l\e\b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \h\a\l\f\b\y\t\e ]]
++ [[ xinyu_7b_mix_token == \h\a\l\f\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \s\u\b\b\y\t\e ]]
++ [[ xinyu_7b_mix_token == \s\u\b\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \u\n\i\g\r\a\m ]]
++ [[ xinyu_7b_mix_token == \u\n\i\g\r\a\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_7b_mix_token == \d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\d\o\u\b\l\e\b\y\t\e\2 ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\s\e\p\e\m\b\e\d ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\s\e\p\e\m\b\e\d\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \s\p\m ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \g\r\a\y ]]
++ [[ xinyu_7b_mix_token == \g\r\a\y\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \s\p\m\l\i\n\e\s ]]
++ [[ xinyu_7b_mix_token == \s\p\m\l\i\n\e\s\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\o\c ]]
++ [[ xinyu_7b_mix_token == \s\p\m\-\o\c\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \s\c\r\a\m\b\l\e ]]
++ [[ xinyu_7b_mix_token == \s\u\p\e\r\b\p\e ]]
++ [[ xinyu_7b_mix_token == \s\u\p\e\r\b\p\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \h\u\f\f\m\a\n ]]
++ [[ xinyu_7b_mix_token == \s\u\p\e\r\b\p\e\-\h\u\f\f\m\a\n ]]
++ [[ xinyu_7b_mix_token == \t\o\k\1\b ]]
++ [[ xinyu_7b_mix_token == \t\o\k\1\b\-\s\a\m\p\l\e ]]
++ [[ xinyu_7b_mix_token == \x\i\n\y\u\_\7\b\_\t\o\k\e\n\i\z\e ]]
++ [[ xinyu_7b_mix_token == \x\i\n\y\u\_\7\b\_\r\a\w ]]
++ [[ xinyu_7b_mix_token == \x\i\n\y\u\_\7\b\_\d\y\n\a\m\i\c ]]
++ [[ xinyu_7b_mix_token == \x\i\n\y\u\_\7\b\_\m\i\x\_\t\o\k\e\n ]]
++ MODELS=("/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_7b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_step-50000")
++ [[ perturbed-humaneval-docstrings-num_seeds_5 == \n\o\n\e ]]
++ [[ perturbed-humaneval-docstrings-num_seeds_5 == \s\f\t ]]
++ DATASETS=($USER_DATASET)
++ for DATASET in "${DATASETS[@]}"
++ TASK_MODE=greedy
++ [[ perturbed-humaneval-docstrings-num_seeds_5 == *:* ]]
++ [[ greedy == \g\r\e\e\d\y ]]
++ TASK_ARGS='-g greedy'
++ for index in "${!MODELS[@]}"
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_7b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_step-50000
++ [[ vanilla == \m\u\l\t\i\b\y\t\e ]]
++ [[ vanilla == \v\a\n\i\l\l\a ]]
++ DECODING_ARGS=
++ save_subdir=vanilla
++ [[ raw_sentinel == \r\a\w\_\s\e\n\t\i\n\e\l ]]
++ DECODING_ARGS=' --tokenizer_mode raw_sentinel '
++ save_subdir=vanilla_raw_sentinel

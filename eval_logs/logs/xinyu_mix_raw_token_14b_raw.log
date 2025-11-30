@@ -1,0 +1,274 @@
++ export HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ export HF_TOKEN=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
++ HF_TOKEN=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
++ NUM_GPUS=1
++ USER_MODEL=xinyu_mix_raw_token_14b
++ USER_DATASET=none
++ DUMP_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs
++ MODEL_TYPE=base
++ DECODING_MODE=vanilla
++ TOKENIZER_MODE=raw_sentinel
++ SPM_PATH=--separate_embedding
++ PROMPT_HEALING=strip
++ '[' 7 -lt 8 ']'
++ shift 7
++ [[ xinyu_mix_raw_token_14b == \n\o\n\e ]]
++ [[ xinyu_mix_raw_token_14b == \d\y\n\a\m\i\c\1 ]]
++ [[ xinyu_mix_raw_token_14b == \d\y\n\a\m\i\c\2 ]]
++ [[ xinyu_mix_raw_token_14b == \d\y\n\a\m\i\c\3 ]]
++ [[ xinyu_mix_raw_token_14b == \d\y\n\a\m\i\c\4 ]]
++ [[ xinyu_mix_raw_token_14b == \r\a\w\2 ]]
++ [[ xinyu_mix_raw_token_14b == \r\a\w\2\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \r\a\w ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\o\p\e\n\c\o\d\e\r ]]
++ [[ xinyu_mix_raw_token_14b == \b\i\t ]]
++ [[ xinyu_mix_raw_token_14b == \b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \d\o\u\b\l\e\b\i\t ]]
++ [[ xinyu_mix_raw_token_14b == \d\o\u\b\l\e\b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \h\a\l\f\b\y\t\e ]]
++ [[ xinyu_mix_raw_token_14b == \h\a\l\f\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\u\b\b\y\t\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\u\b\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \u\n\i\g\r\a\m ]]
++ [[ xinyu_mix_raw_token_14b == \u\n\i\g\r\a\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_raw_token_14b == \d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\d\o\u\b\l\e\b\y\t\e\2 ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\s\e\p\e\m\b\e\d ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\s\e\p\e\m\b\e\d\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \g\r\a\y ]]
++ [[ xinyu_mix_raw_token_14b == \g\r\a\y\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\l\i\n\e\s ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\l\i\n\e\s\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\o\c ]]
++ [[ xinyu_mix_raw_token_14b == \s\p\m\-\o\c\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\c\r\a\m\b\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\u\p\e\r\b\p\e ]]
++ [[ xinyu_mix_raw_token_14b == \s\u\p\e\r\b\p\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \h\u\f\f\m\a\n ]]
++ [[ xinyu_mix_raw_token_14b == \s\u\p\e\r\b\p\e\-\h\u\f\f\m\a\n ]]
++ [[ xinyu_mix_raw_token_14b == \t\o\k\1\b ]]
++ [[ xinyu_mix_raw_token_14b == \t\o\k\1\b\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \t\o\k\7\b ]]
++ [[ xinyu_mix_raw_token_14b == \t\o\k\7\b\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_raw_token_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\1\4\b ]]
++ [[ xinyu_mix_raw_token_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\4\b ]]
++ [[ xinyu_mix_raw_token_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\5\0\0\m ]]
++ [[ xinyu_mix_raw_token_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\5\0\0\m ]]
++ [[ xinyu_mix_raw_token_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\4\b ]]
++ [[ xinyu_mix_raw_token_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\1\4\b ]]
++ [[ xinyu_mix_raw_token_14b == \x\i\n\y\u\_\m\i\x\_\r\a\w\_\t\o\k\e\n\_\1\4\b ]]
++ MODELS=("/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-20000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-30000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-40000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-50000")
++ [[ none == \n\o\n\e ]]
++ DATASETS=("humaneval_plus" "mbpp_plus")
++ for DATASET in "${DATASETS[@]}"
++ TASK_MODE=greedy
++ [[ humaneval_plus == *:* ]]
++ [[ greedy == \g\r\e\e\d\y ]]
++ TASK_ARGS='-g greedy'
++ for index in "${!MODELS[@]}"
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ [[ vanilla == \m\u\l\t\i\b\y\t\e ]]
++ [[ vanilla == \v\a\n\i\l\l\a ]]
++ DECODING_ARGS=
++ save_subdir=vanilla
++ [[ raw_sentinel == \r\a\w\_\s\e\n\t\i\n\e\l ]]
++ DECODING_ARGS=' --tokenizer_mode raw_sentinel '
++ save_subdir=vanilla_raw_sentinel
+++ basename /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ MODEL_PATH=ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ [[ greedy == \g\r\e\e\d\y ]]
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel
++ mkdir -p /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel
++ [[ base == \b\a\s\e ]]
++ MODEL_TYPE_ARGS=
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == /* ]]
++ HF_TOKEN=none
++ bash launch.sh -r gen -d humaneval_plus -m /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 -s /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel -g greedy -p 1 -e True --tokenizer_mode raw_sentinel
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ RUN_MODE=gen
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ DATASET=humaneval_plus
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ GENERATION_MODE=greedy
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ NUM_PROCESSES=1
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ break
++ shift 14
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ DATASET=humaneval_plus
++ BATCH_SIZE=20
++ GEN_TEMPERATURE=none
++ GEN_NUM_SAMPLES=none
++ GENERATION_MODE=greedy
++ RUN_MODE=gen
++ NUM_PROCESSES=1
++ case $RUN_MODE in
++ echo 'RUN_MODE is valid'
+RUN_MODE is valid
++ TOKENIZER=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \b\i\g\c\o\d\e\/\s\a\n\t\a\c\o\d\e\r ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == *\d\e\e\p\s\e\e\k\-\c\o\d\e\r* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \b\i\g\c\o\d\e\/\s\t\a\r\c\o\d\e\r\2* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \b\i\g\c\o\d\e\/\s\t\a\r\c\o\d\e\r* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \g\o\o\g\l\e\/\c\o\d\e\g\e\m\m\a* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == *\c\o\d\e\l\l\a\m\a* ]]
++ MODEL_ARGS='--model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code'
++ HF_TOKEN=none
++ [[ none != \N\o\n\e ]]
++ MODEL_ARGS='--model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code --use_auth_token none'
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \/\o\p\t\/\t\i\g\e\r\/*opencoder_reproduction* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == *\b\y\t\e\l\m* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \/\o\p\t\/\t\i\g\e\r\/* ]]
++ [[ humaneval_plus == \d\s\1\0\0\0* ]]
++ [[ humaneval_plus == *\h\u\m\a\n\e\v\a\l* ]]
++ NUM_SAMPLES=200
++ LENGTH_ARGS='--max_length_generation 2048 --max_new_tokens_generation 512'
++ TEMPERATURE=0.8
++ PRECISION=bf16
++ [[ greedy == \s\a\m\p\l\e ]]
++ [[ greedy == \g\r\e\e\d\y ]]
++ DECODE_ARGS='--temperature 0.0         --do_sample False         --n_samples 1         --batch_size 1         --max_length_generation 2048 --max_new_tokens_generation 512'
++ DECODE_NAME=greedy
++ nnodes=1
++ node_rank=0
++ nproc_per_node=1
++ [[ gen == *\g\e\n* ]]
++ ACCELERATE_LAUNCH_GEN main.py --tasks humaneval_plus --model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code --use_auth_token none --precision bf16 --temperature 0.0 --do_sample False --n_samples 1 --batch_size 1 --max_length_generation 2048 --max_new_tokens_generation 512 --generation_only --save_generations --save_generations_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel/generations_greedy.json --tokenizer_mode raw_sentinel
++ accelerate launch --num_processes 1 --num_machines 1 --machine_rank 0 main.py --tasks humaneval_plus --model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code --use_auth_token none --precision bf16 --temperature 0.0 --do_sample False --n_samples 1 --batch_size 1 --max_length_generation 2048 --max_new_tokens_generation 512 --generation_only --save_generations --save_generations_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel/generations_greedy.json --tokenizer_mode raw_sentinel
+/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+Traceback (most recent call last):
+  File "/home/tiger/miniconda3/envs/pretrain/bin/accelerate", line 3, in <module>
+    from accelerate.commands.accelerate_cli import main
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/accelerate/commands/accelerate_cli.py", line 19, in <module>
+    from accelerate.commands.estimate import estimate_command_parser
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/accelerate/commands/estimate.py", line 31, in <module>
+    import transformers
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/__init__.py", line 26, in <module>
+    from . import dependency_versions_check
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/dependency_versions_check.py", line 57, in <module>
+    require_version_core(deps[pkg])
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/utils/versions.py", line 117, in require_version_core
+    return require_version(requirement, hint)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/utils/versions.py", line 111, in require_version
+    _compare_versions(op, got_ver, want_ver, requirement, pkg, hint)
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/utils/versions.py", line 44, in _compare_versions
+    raise ImportError(
+ImportError: tokenizers>=0.19,<0.20 is required for a normal functioning of this module, but found tokenizers==0.21.0.
+Try: `pip install transformers -U` or `pip install -e '.[dev]'` if you're working with git main
++ [[ gen == *\e\v\a\l* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == /* ]]
++ HF_TOKEN=none
++ bash launch.sh -r eval -d humaneval_plus -m /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 -s /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel -g greedy -p 10 -e True --tokenizer_mode raw_sentinel
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ RUN_MODE=eval
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ DATASET=humaneval_plus
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ GENERATION_MODE=greedy
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ NUM_PROCESSES=10
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ break
++ shift 14
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ DATASET=humaneval_plus
++ BATCH_SIZE=20
++ GEN_TEMPERATURE=none
++ GEN_NUM_SAMPLES=none
++ GENERATION_MODE=greedy
++ RUN_MODE=eval
++ NUM_PROCESSES=10
++ case $RUN_MODE in
++ echo 'RUN_MODE is valid'
+RUN_MODE is valid
++ TOKENIZER=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \b\i\g\c\o\d\e\/\s\a\n\t\a\c\o\d\e\r ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == *\d\e\e\p\s\e\e\k\-\c\o\d\e\r* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \b\i\g\c\o\d\e\/\s\t\a\r\c\o\d\e\r\2* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \b\i\g\c\o\d\e\/\s\t\a\r\c\o\d\e\r* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \g\o\o\g\l\e\/\c\o\d\e\g\e\m\m\a* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == *\c\o\d\e\l\l\a\m\a* ]]
++ MODEL_ARGS='--model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code'
++ HF_TOKEN=none
++ [[ none != \N\o\n\e ]]
++ MODEL_ARGS='--model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code --use_auth_token none'
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \/\o\p\t\/\t\i\g\e\r\/*opencoder_reproduction* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == *\b\y\t\e\l\m* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 == \/\o\p\t\/\t\i\g\e\r\/* ]]
++ [[ humaneval_plus == \d\s\1\0\0\0* ]]
++ [[ humaneval_plus == *\h\u\m\a\n\e\v\a\l* ]]
++ NUM_SAMPLES=200
++ LENGTH_ARGS='--max_length_generation 2048 --max_new_tokens_generation 512'
++ TEMPERATURE=0.8
++ PRECISION=bf16
++ [[ greedy == \s\a\m\p\l\e ]]
++ [[ greedy == \g\r\e\e\d\y ]]
++ DECODE_ARGS='--temperature 0.0         --do_sample False         --n_samples 1         --batch_size 1         --max_length_generation 2048 --max_new_tokens_generation 512'
++ DECODE_NAME=greedy
++ nnodes=1
++ node_rank=0
++ nproc_per_node=10
++ [[ eval == *\g\e\n* ]]
++ [[ eval == *\e\v\a\l* ]]
++ export TF_CPP_MIN_LOG_LEVEL=3
++ TF_CPP_MIN_LOG_LEVEL=3
++ export TF_FORCE_GPU_ALLOW_GROWTH=true
++ TF_FORCE_GPU_ALLOW_GROWTH=true
++ ACCELERATE_LAUNCH_EVAL main.py --tasks humaneval_plus --model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code --use_auth_token none --temperature 0.0 --do_sample False --n_samples 1 --batch_size 1 --max_length_generation 2048 --max_new_tokens_generation 512 --num_processes 10 --allow_code_execution --load_generations_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel/generations_greedy.json --metric_output_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel/evaluations_greedy.json --tokenizer_mode raw_sentinel
++ accelerate launch --cpu main.py --tasks humaneval_plus --model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000 --trust_remote_code --use_auth_token none --temperature 0.0 --do_sample False --n_samples 1 --batch_size 1 --max_length_generation 2048 --max_new_tokens_generation 512 --num_processes 10 --allow_code_execution --load_generations_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel/generations_greedy.json --metric_output_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90spm-10raw_transsentinel_pretok_opencodertokenizer_100B_2m_step-10000_vanilla_raw_sentinel/evaluations_greedy.json --tokenizer_mode raw_sentinel
+/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+Traceback (most recent call last):
+  File "/home/tiger/miniconda3/envs/pretrain/bin/accelerate", line 3, in <module>
+    from accelerate.commands.accelerate_cli import main
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/accelerate/commands/accelerate_cli.py", line 19, in <module>
+    from accelerate.commands.estimate import estimate_command_parser
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/accelerate/commands/estimate.py", line 31, in <module>
+    import transformers
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/__init__.py", line 26, in <module>
+    from . import dependency_versions_check
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/dependency_versions_check.py", line 57, in <module>
+    require_version_core(deps[pkg])
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/utils/versions.py", line 117, in require_version_core
+    return require_version(requirement, hint)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/utils/versions.py", line 111, in require_version
+    _compare_versions(op, got_ver, want_ver, requirement, pkg, hint)
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/transformers/utils/versions.py", line 44, in _compare_versions
+    raise ImportError(
+ImportError: tokenizers>=0.19,<0.20 is required for a normal functioning of this module, but found tokenizers==0.21.0.
+Try: `pip install transformers -U` or `pip install -e '.[dev]'` if you're working with git main

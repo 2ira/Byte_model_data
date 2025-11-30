@@ -1,0 +1,91 @@
++ export HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ export HF_TOKEN=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
++ HF_TOKEN=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
++ NUM_GPUS=1
++ USER_MODEL=xinyu_mix_dynamic_14b
++ USER_DATASET=none
++ DUMP_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs
++ MODEL_TYPE=base
++ DECODING_MODE=vanilla
++ TOKENIZER_MODE=raw_sentinel
++ SPM_PATH=
++ PROMPT_HEALING=strip
++ '[' 6 -lt 8 ']'
++ shift 6
++ [[ xinyu_mix_dynamic_14b == \n\o\n\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\1 ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\2 ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\3 ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\4 ]]
++ [[ xinyu_mix_dynamic_14b == \r\a\w\2 ]]
++ [[ xinyu_mix_dynamic_14b == \r\a\w\2\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \r\a\w ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\o\p\e\n\c\o\d\e\r ]]
++ [[ xinyu_mix_dynamic_14b == \b\i\t ]]
++ [[ xinyu_mix_dynamic_14b == \b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\i\t ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \h\a\l\f\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \h\a\l\f\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\b\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\b\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \u\n\i\g\r\a\m ]]
++ [[ xinyu_mix_dynamic_14b == \u\n\i\g\r\a\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\d\o\u\b\l\e\b\y\t\e\2 ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\s\e\p\e\m\b\e\d ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\s\e\p\e\m\b\e\d\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \g\r\a\y ]]
++ [[ xinyu_mix_dynamic_14b == \g\r\a\y\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\l\i\n\e\s ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\l\i\n\e\s\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\o\c ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\o\c\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\c\r\a\m\b\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\p\e\r\b\p\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\p\e\r\b\p\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \h\u\f\f\m\a\n ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\p\e\r\b\p\e\-\h\u\f\f\m\a\n ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\1\b ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\1\b\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\7\b ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\7\b\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\1\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\5\0\0\m ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\5\0\0\m ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\1\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\r\a\w\_\t\o\k\e\n\_\1\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\r\a\w\_\t\o\k\e\n\_\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\r\a\w\_\t\o\k\e\n\_\5\0\0\m ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\d\y\n\a\m\i\c\_\1\4\b ]]
++ MODELS=("/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-20000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-30000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-40000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-50000")
++ [[ none == \n\o\n\e ]]
++ DATASETS=("humaneval_plus" "mbpp_plus")
++ for DATASET in "${DATASETS[@]}"
++ TASK_MODE=greedy
++ [[ humaneval_plus == *:* ]]
++ [[ greedy == \g\r\e\e\d\y ]]
++ TASK_ARGS='-g greedy'
++ for index in "${!MODELS[@]}"
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ [[ vanilla == \m\u\l\t\i\b\y\t\e ]]
++ [[ vanilla == \v\a\n\i\l\l\a ]]
++ DECODING_ARGS=
++ save_subdir=vanilla
++ [[ raw_sentinel == \r\a\w\_\s\e\n\t\i\n\e\l ]]
++ DECODING_ARGS=' --tokenizer_mode raw_sentinel '
++ save_subdir=vanilla_raw_sentinel
+++ basename /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ MODEL_PATH=ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ [[ greedy == \g\r\e\e\d\y ]]
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel
++ mkdir -p /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/humaneval_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel

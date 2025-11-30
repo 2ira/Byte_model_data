@@ -1,0 +1,301 @@
++ export HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ HF_HOME=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache
++ export HF_TOKEN=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
++ HF_TOKEN=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
++ NUM_GPUS=1
++ USER_MODEL=xinyu_mix_dynamic_14b
++ USER_DATASET=none
++ DUMP_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs
++ MODEL_TYPE=base
++ DECODING_MODE=vanilla
++ TOKENIZER_MODE=raw_sentinel
++ SPM_PATH=
++ PROMPT_HEALING=strip
++ '[' 6 -lt 8 ']'
++ shift 6
++ [[ xinyu_mix_dynamic_14b == \n\o\n\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\1 ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\2 ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\3 ]]
++ [[ xinyu_mix_dynamic_14b == \d\y\n\a\m\i\c\4 ]]
++ [[ xinyu_mix_dynamic_14b == \r\a\w\2 ]]
++ [[ xinyu_mix_dynamic_14b == \r\a\w\2\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \r\a\w ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\o\p\e\n\c\o\d\e\r ]]
++ [[ xinyu_mix_dynamic_14b == \b\i\t ]]
++ [[ xinyu_mix_dynamic_14b == \b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\i\t ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\i\t\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \h\a\l\f\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \h\a\l\f\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\b\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\b\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \u\n\i\g\r\a\m ]]
++ [[ xinyu_mix_dynamic_14b == \u\n\i\g\r\a\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\d\o\u\b\l\e\b\y\t\e\2 ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\a\c\-\d\o\u\b\l\e\b\y\t\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\s\e\p\e\m\b\e\d ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\s\e\p\e\m\b\e\d\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \g\r\a\y ]]
++ [[ xinyu_mix_dynamic_14b == \g\r\a\y\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\l\i\n\e\s ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\l\i\n\e\s\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\o\c ]]
++ [[ xinyu_mix_dynamic_14b == \s\p\m\-\o\c\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\c\r\a\m\b\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\p\e\r\b\p\e ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\p\e\r\b\p\e\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \h\u\f\f\m\a\n ]]
++ [[ xinyu_mix_dynamic_14b == \s\u\p\e\r\b\p\e\-\h\u\f\f\m\a\n ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\1\b ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\1\b\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\7\b ]]
++ [[ xinyu_mix_dynamic_14b == \t\o\k\7\b\-\s\a\m\p\l\e ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\1\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\t\o\k\e\n\i\z\e\_\b\a\s\e\l\i\n\e\_\5\0\0\m ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\5\0\0\m ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\1\0\0\r\a\w\_\1\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\r\a\w\_\t\o\k\e\n\_\1\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\r\a\w\_\t\o\k\e\n\_\4\b ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\r\a\w\_\t\o\k\e\n\_\5\0\0\m ]]
++ [[ xinyu_mix_dynamic_14b == \x\i\n\y\u\_\m\i\x\_\d\y\n\a\m\i\c\_\1\4\b ]]
++ MODELS=("/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-20000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-30000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-40000" "/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-50000")
++ [[ none == \n\o\n\e ]]
++ DATASETS=("mbpp_plus")
++ for DATASET in "${DATASETS[@]}"
++ TASK_MODE=greedy
++ [[ mbpp_plus == *:* ]]
++ [[ greedy == \g\r\e\e\d\y ]]
++ TASK_ARGS='-g greedy'
++ for index in "${!MODELS[@]}"
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ [[ vanilla == \m\u\l\t\i\b\y\t\e ]]
++ [[ vanilla == \v\a\n\i\l\l\a ]]
++ DECODING_ARGS=
++ save_subdir=vanilla
++ [[ raw_sentinel == \r\a\w\_\s\e\n\t\i\n\e\l ]]
++ DECODING_ARGS=' --tokenizer_mode raw_sentinel '
++ save_subdir=vanilla_raw_sentinel
+++ basename /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ MODEL_PATH=ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ [[ greedy == \g\r\e\e\d\y ]]
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel
++ mkdir -p /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel
++ [[ base == \b\a\s\e ]]
++ MODEL_TYPE_ARGS=
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == /* ]]
++ HF_TOKEN=none
++ bash launch.sh -r gen -d mbpp_plus -m /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 -s /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel -g greedy -p 1 -e True --tokenizer_mode raw_sentinel
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ RUN_MODE=gen
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ DATASET=mbpp_plus
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ GENERATION_MODE=greedy
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ NUM_PROCESSES=1
++ getopts :s:m:t:g:n:b:p:d:r:e: o
++ case "${o}" in
++ break
++ shift 14
++ SAVE_DIR=/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel
++ MODEL=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ DATASET=mbpp_plus
++ BATCH_SIZE=20
++ GEN_TEMPERATURE=none
++ GEN_NUM_SAMPLES=none
++ GENERATION_MODE=greedy
++ RUN_MODE=gen
++ NUM_PROCESSES=1
++ case $RUN_MODE in
++ echo 'RUN_MODE is valid'
+RUN_MODE is valid
++ TOKENIZER=/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == \b\i\g\c\o\d\e\/\s\a\n\t\a\c\o\d\e\r ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == *\d\e\e\p\s\e\e\k\-\c\o\d\e\r* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == \b\i\g\c\o\d\e\/\s\t\a\r\c\o\d\e\r\2* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == \b\i\g\c\o\d\e\/\s\t\a\r\c\o\d\e\r* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == \g\o\o\g\l\e\/\c\o\d\e\g\e\m\m\a* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == *\c\o\d\e\l\l\a\m\a* ]]
++ MODEL_ARGS='--model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --trust_remote_code'
++ HF_TOKEN=none
++ [[ none != \N\o\n\e ]]
++ MODEL_ARGS='--model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --trust_remote_code --use_auth_token none'
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == \/\o\p\t\/\t\i\g\e\r\/*opencoder_reproduction* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == *\b\y\t\e\l\m* ]]
++ [[ /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 == \/\o\p\t\/\t\i\g\e\r\/* ]]
++ [[ mbpp_plus == \d\s\1\0\0\0* ]]
++ [[ mbpp_plus == *\h\u\m\a\n\e\v\a\l* ]]
++ [[ mbpp_plus == *\m\b\p\p* ]]
++ NUM_SAMPLES=200
++ LENGTH_ARGS='--max_length_generation 2048 --max_new_tokens_generation 512'
++ TEMPERATURE=0.8
++ PRECISION=bf16
++ [[ greedy == \s\a\m\p\l\e ]]
++ [[ greedy == \g\r\e\e\d\y ]]
++ DECODE_ARGS='--temperature 0.0         --do_sample False         --n_samples 1         --batch_size 1         --max_length_generation 2048 --max_new_tokens_generation 512'
++ DECODE_NAME=greedy
++ nnodes=1
++ node_rank=0
++ nproc_per_node=1
++ [[ gen == *\g\e\n* ]]
++ ACCELERATE_LAUNCH_GEN main.py --tasks mbpp_plus --model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --trust_remote_code --use_auth_token none --precision bf16 --temperature 0.0 --do_sample False --n_samples 1 --batch_size 1 --max_length_generation 2048 --max_new_tokens_generation 512 --generation_only --save_generations --save_generations_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel/generations_greedy.json --tokenizer_mode raw_sentinel
++ accelerate launch --num_processes 1 --num_machines 1 --machine_rank 0 main.py --tasks mbpp_plus --model /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --tokenizer_path /mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000 --trust_remote_code --use_auth_token none --precision bf16 --temperature 0.0 --do_sample False --n_samples 1 --batch_size 1 --max_length_generation 2048 --max_new_tokens_generation 512 --generation_only --save_generations --save_generations_path /mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel/generations_greedy.json --tokenizer_mode raw_sentinel
+/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+The following values were not passed to `accelerate launch` and had defaults used instead:
+	`--mixed_precision` was set to a value of `'no'`
+	`--dynamo_backend` was set to a value of `'no'`
+To avoid this warning pass in values for each of the problematic parameters or run `accelerate config`.
+/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+Using the latest cached version of the module from /mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/evaluate_modules/metrics/evaluate-metric--exact_match/9d3b67e0c429cd7460b2b05aab53419b48eea369b73e1d9f185a56ca90c373d4 (last modified on Wed Mar 19 03:31:45 2025) since it couldn't be found locally at evaluate-metric--exact_match, or remotely on the Hugging Face Hub.
+/home/tiger/.local/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py:476: FutureWarning: The `use_auth_token` argument is deprecated and will be removed in v5 of Transformers. Please use `token` instead.
+  warnings.warn(
+Namespace(do_sample=False, temperature=0.0, top_k=0, top_p=0.95, n_samples=1, seed=0, model='/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000', tokenizer_path='/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000', revision=None, use_auth_token='none', trust_remote_code=True, tasks='mbpp_plus', batch_size=1, max_length_generation=2048, max_new_tokens_generation=512, precision='bf16', load_in_8bit=False, load_in_4bit=False, limit=None, postprocess=True, allow_code_execution=False, generation_only=True, load_generations_path=None, load_data_path=None, metric_output_path='evaluation_results.json', save_generations=True, save_generations_path='/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel/generations_greedy.json', save_references=False, num_processes=None, auto_device_map=False, check_references=False, multi_byte_decoding=False, tokenizer_mode='raw_sentinel', spm_path=None, byte_converter_type=None, huffman_freq_path=None, arithmetic_map_path=None, prompt_healing=None, separate_embedding=False, force_generate_utf8_bytes_only=False, instruct_format=False)
+Selected Tasks: ['mbpp_plus']
+Loading model in bf16
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [06:54<13:48, 414.37s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [16:16<08:21, 501.46s/it]Loading checkpoint shards: 100%|██████████| 3/3 [30:08<00:00, 652.33s/it]Loading checkpoint shards: 100%|██████████| 3/3 [30:08<00:00, 602.88s/it]
+/home/tiger/.local/lib/python3.11/site-packages/transformers/models/auto/tokenization_auto.py:862: FutureWarning: The `use_auth_token` argument is deprecated and will be removed in v5 of Transformers. Please use `token` instead.
+  warnings.warn(
+/mlx_devbox/users/lixinyu.222/playground/byte-lingua/evals/gen_evals/gen_eval/base.py:30: UserWarning: Loading the dataset failed with expected str, bytes or os.PathLike object, not NoneType. This task will use a locally downloaded dataset, not from the HF hub.
+  warn(
+EvaByteForCausalLM(
+  (model): EvaByteModel(
+    (embed_tokens): Embedding(65856, 5120, padding_idx=0)
+    (layers): ModuleList(
+      (0-39): 40 x EvaByteDecoderLayer(
+        (self_attn): EvaAttention(
+          (q_proj): Linear(in_features=5120, out_features=5120, bias=False)
+          (k_proj): Linear(in_features=5120, out_features=5120, bias=False)
+          (v_proj): Linear(in_features=5120, out_features=5120, bias=False)
+          (o_proj): Linear(in_features=5120, out_features=5120, bias=False)
+        )
+        (mlp): EvaByteMLP(
+          (gate_proj): Linear(in_features=5120, out_features=16384, bias=False)
+          (up_proj): Linear(in_features=5120, out_features=16384, bias=False)
+          (down_proj): Linear(in_features=16384, out_features=5120, bias=False)
+          (act_fn): SiLU()
+        )
+        (input_layernorm): EvaByteRMSNorm()
+        (post_attention_layernorm): EvaByteRMSNorm()
+      )
+    )
+    (norm): EvaByteRMSNorm()
+    (rotary_emb): EvaByteRotaryEmbedding()
+  )
+  (lm_head): Linear(in_features=5120, out_features=131712, bias=False)
+)
+=====> Model params: 15273006080
+=====> Model mode : evaluation
+number of problems for this task is 378
+>>>>>>> Add EOS and EOT tokens into stop_words
+  0%|          | 0/378 [00:00<?, ?it/s]/home/tiger/.local/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:628: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.0` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/tiger/.local/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:633: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.95` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/tiger/.local/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:650: UserWarning: `do_sample` is set to `False`. However, `top_k` is set to `0` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_k`.
+  warnings.warn(
+  0%|          | 0/378 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/mlx_devbox/users/lixinyu.222/playground/byte-lingua/evals/gen_evals/main.py", line 412, in <module>
+    main()
+  File "/mlx_devbox/users/lixinyu.222/playground/byte-lingua/evals/gen_evals/main.py", line 386, in main
+    generations_by_task[task_name], references_by_task[task_name] = evaluator.generate_text(task_name)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mlx_devbox/users/lixinyu.222/playground/byte-lingua/evals/gen_evals/gen_eval/evaluator.py", line 449, in generate_text
+    generated_code = code_generator_fn(input_dict=input_dict, device=device)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mlx_devbox/users/lixinyu.222/playground/byte-lingua/evals/gen_evals/gen_eval/generation_pipelines/synthesis_utils.py", line 41, in vanilla_completion
+    generated_tokens = model.generate(
+                       ^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/.local/lib/python3.11/site-packages/transformers/generation/utils.py", line 2326, in generate
+    result = self._sample(
+             ^^^^^^^^^^^^^
+  File "/home/tiger/.local/lib/python3.11/site-packages/transformers/generation/utils.py", line 3286, in _sample
+    outputs = self(**model_inputs, return_dict=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/modeling_evabyte.py", line 801, in forward
+    outputs = self.model(
+              ^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/modeling_evabyte.py", line 705, in forward
+    layer_outputs = decoder_layer(
+                    ^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/modeling_evabyte.py", line 303, in forward
+    hidden_states, self_attn_weights, present_key_value = self.self_attn(hidden_states=hidden_states,
+                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/eva.py", line 415, in forward
+    return self._triton_forward(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/eva.py", line 233, in _triton_forward
+    attn_output = eva_agg_func_triton(
+                  ^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/eva_agg_kernel.py", line 1762, in eva_agg_func_triton
+    return EvaAggFunc.apply(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/torch/autograd/function.py", line 576, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/eva_agg_kernel.py", line 1709, in forward
+    o, lse = triton_eva_agg_fwd(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/mnt/bn/tiktok-mm-5/aiic/users/linzheng/.hf_cache/modules/transformers_modules/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000/eva_agg_kernel.py", line 1407, in triton_eva_agg_fwd
+    assert q.is_cuda and k.is_cuda and v.is_cuda
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+Traceback (most recent call last):
+  File "/home/tiger/miniconda3/envs/pretrain/bin/accelerate", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/accelerate/commands/accelerate_cli.py", line 50, in main
+    args.func(args)
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/accelerate/commands/launch.py", line 1235, in launch_command
+    simple_launcher(args)
+  File "/home/tiger/miniconda3/envs/pretrain/lib/python3.11/site-packages/accelerate/commands/launch.py", line 823, in simple_launcher
+    raise subprocess.CalledProcessError(returncode=process.returncode, cmd=cmd)
+subprocess.CalledProcessError: Command '['/home/tiger/miniconda3/envs/pretrain/bin/python3.11', 'main.py', '--tasks', 'mbpp_plus', '--model', '/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000', '--tokenizer_path', '/mnt/hdfs/user/lixinyu.222/byte_model_pretain/ckpts/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000', '--trust_remote_code', '--use_auth_token', 'none', '--precision', 'bf16', '--temperature', '0.0', '--do_sample', 'False', '--n_samples', '1', '--batch_size', '1', '--max_length_generation', '2048', '--max_new_tokens_generation', '512', '--generation_only', '--save_generations', '--save_generations_path', '/mnt/bn/tiktok-mm-5/aiic/users/linzheng/eval_logs/mbpp_plus/ocpython_14b_bsz-2m_seq16k_docmask_multipredc2r8_90dynamic-10raw_transsentinel_minsize0ent98line16ow16pack_100B_2m_new_3_step-10000_vanilla_raw_sentinel/generations_greedy.json', '--tokenizer_mode', 'raw_sentinel']' returned non-zero exit status 1.
